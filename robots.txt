@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://finitaprod.ru/sitemap.xml
+Host: finitaprod.ru
